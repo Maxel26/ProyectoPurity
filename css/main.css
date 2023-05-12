@@ -1,4 +1,19 @@
-br{
-    color: black;
-    background: black;
+.image-recent-work{
+    width: 100%;
+    padding: 0px 10px 0 10px;
 }
+
+.width-main{
+    width: 980px;
+}
+.pharagrap{
+    color: #d16f4e;
+}
+a{
+    text-decoration: none;
+}
+.text-h1{
+    color: #888;
+    font-size: ;
+}
+
