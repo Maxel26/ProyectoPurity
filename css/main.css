@@ -1,0 +1,23 @@
+.pie-de-pagina {
+    
+        display: flex;
+        justify-content: space-between;
+        font-size: 12px;
+        line-height: 20px;
+        font-family: helvetica, arial, sans-serif;
+        color: #888;
+}
+
+.h5 {
+    color: #444;
+    font-family: helvetica, arial, sans-serif;
+    letter-spacing: .9px;
+    line-height: 20px;
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: 700;
+}
+
+.a{
+    color: #d16f4e;;
+}
